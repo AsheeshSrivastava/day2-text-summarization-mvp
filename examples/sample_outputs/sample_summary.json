@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "timestamp": "2025-10-28T18:30:00.000000",
+    "model": {
+      "id": "t5-small",
+      "name": "T5 Small (Fast)"
+    },
+    "version": "1.0.0"
+  },
+  "content": {
+    "original_text": "Artificial Intelligence has become one of the most transformative technologies of our time. From virtual assistants to self-driving cars, AI is reshaping how we live and work. Machine learning algorithms power recommendation systems, detect fraud, and assist in medical diagnostics. Natural language processing enables human-like text generation and understanding. As AI continues to evolve, ethical considerations around bias, privacy, and employment become increasingly important for responsible development.",
+    "summary": "Artificial intelligence has become one of the most transformative technologies of our time. from virtual assistants to self-driving cars, AI is reshaping how we live and work. machine learning algorithms power recommendation systems, detect fraud, and assist in medical diagnostics."
+  },
+  "statistics": {
+    "original_length": 510,
+    "original_words": 67,
+    "summary_length": 245,
+    "summary_words": 26,
+    "compression_ratio": "65.2%"
+  }
+}
